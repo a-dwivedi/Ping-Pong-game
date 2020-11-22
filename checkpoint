@@ -1,0 +1,2 @@
+model_checkpoint_path: "ping_pong_game-dqn-10000"
+all_model_checkpoint_paths: "ping_pong_game-dqn-10000"
